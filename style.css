@@ -1,0 +1,146 @@
+body {
+    background-color: rgb(158, 90, 231);
+    color: rgb(223, 238, 251);
+    font-family: 'Lemon', serif;
+    font-family: 'Poppins', sans-serif;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+nav{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    height: 70px;
+    background-color: rgb(135, 48, 221);
+    font-family: 'Lemon', sans-serif;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    
+}
+nav ul li{
+    list-style: none;
+    margin: 0px 23px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    color: rgb(41, 12, 72);
+    font-size: 1.04rem;
+    animation: infinite;
+}
+.left{
+    font-size: 1.7rem;
+}
+.firstsection{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+.firstsection > div{
+    width: 42%;
+}
+.leftsection{
+    font-size: 2.5rem;
+    margin: 60px 70px 0;
+}
+.rightsection img{
+    width: 80%;
+    margin: 5px 0;
+}
+.blue{
+    color: rgb(51, 12, 105);
+    font-family: 'Lemon', sans-serif;
+}
+.js {
+    font-size:large;
+    margin: 30px 0px 0px 0px;
+}
+.secondsection {
+    margin: 0px 85px 0;
+    height: 100vh;
+}
+.secondsection h1 {
+    font-size: 2.4rem;
+}
+#element{
+   color: rgb(51, 12, 105);
+   font-weight: 700; 
+}
+.past {
+    font-family: 'Lemon', sans-serif;
+    max-width: 80vw;
+    margin: 0px 0px 50px 0px;
+}
+main hr{
+    border: 0;
+    background-color: blueviolet;
+    height: 1.4px;
+    margin: 30px 50px;
+}
+.hint-text {
+    color: rgb(206, 166, 245);
+}
+.box {
+    width: 83vw;
+    height: 2px;
+    background-color: white;
+    margin: 140px 0px 90px 0;
+    display: flex;
+    
+}
+.secondsection .vertical{
+    height: 93px;
+    width: 1px;
+    background-color: white;
+    margin: 0 124px;
+}
+.image-top{
+    width: 30px;
+    position: relative;
+    top: -34px;
+    left: -13px;
+    
+}
+.vertical-text{
+    position: relative;
+    top:  69px;
+    left: 4px;
+    width: 190px;
+    font-size: 16px;
+    font-family: 'Lemon', sans-serif;
+
+}
+.vertical-desc{
+    position: relative;
+    top: 76px;
+    left: -10px;
+    width: 200px;
+    font-size: 10px;
+}
+footer {
+    background-color: rgb(135, 48, 221);;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px 0px 0px 42px;
+
+}
+.footer ul{
+    list-style: none;
+}
+.footer > div {
+    width: 170px;
+}
+.footer-center-text{
+    align-items: center;
+    padding: 40px 0px 20px 460px;
+    font-size: 15px;
+    color: #4c0e67;
+}
