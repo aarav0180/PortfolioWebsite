@@ -14,7 +14,7 @@ This project was a big step in my web development journey, and it’s been a gre
 ## Screenshots 📸
 
 <div style="display: flex; justify-content: space-between; gap: 5px;">
-  <img src="https://github.com/user-attachments/assets/41e4ca09-ad30-415a-a323-25a4609cf4fd" alt="Image 1" width="150"/>
+  <img src="https://github.com/user-attachments/assets/41e4ca09-ad30-415a-a323-25a4609cf4fd" alt="Image 1" width="450"/>
 </div>
 
 ## 🌱 What’s Next?  
